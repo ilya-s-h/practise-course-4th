@@ -27,11 +27,11 @@
 
 ### Представить выполненное задание в виде текста, оформленного в соответствии с ГОСТ «Общие требования к текстовым документам» (https://files.stroyinf.ru/Data/708/70827.pdf)
 
-[Ссылка на разработанное техническое задание](ИСР%201.1/Шумякин%20И.С.%202ИВТ(2)%20ИСР%201.1.pdf)
+[Ссылка на разработанное техническое задание](/Шумякин%20И.С.%20ИСР.pdf)
 
 * Ссылка на разработанное техническое задание в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0%25201.1&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-4th%2Fblob%2Fmain%2F%D8%F3%EC%FF%EA%E8%ED%2520%C8.%D1.%2520%C8%D1%D0.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## ВСР
 
@@ -47,11 +47,11 @@
 
 ### Представить выполненное задание в виде текста, оформленного в соответствии с ГОСТ «Общие требования к текстовым документам» (https://files.stroyinf.ru/Data/708/70827.pdf).
 
-[Ссылка на текстовый документ](ВСР%202.1/Шумякин%20И.С.%202ИВТ(2)%20ВСР%202.1.pdf)
+[Ссылка на текстовый документ](/Шумякин%20И.С.%20ВСР.pdf)
 
 * Ссылка на текстовый документ в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2592%25D0%25A1%25D0%25A0%25202.1&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2Fpractise-course-4th%2Fblob%2Fmain%2F%D8%F3%EC%FF%EA%E8%ED%2520%C8.%D1.%2520%C2%D1%D0.pdf&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 
 
